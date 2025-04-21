@@ -1,6 +1,8 @@
 # 💼 CV | Proyecto 4
 
 Este proyecto es un portfolio personal tipo CV desarrollado como práctica con **Vite** y utilizando un sistema modular basado en componentes.
+Este proyecto forma parte del **Máster en Desarrollo Fullstack**
+
 
 <img src="public/images/movil.png" alt="Logo" width="170"/> <img src="public/images/mac.png" alt="Logo" width="600"/>
 
