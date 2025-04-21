@@ -1,0 +1,83 @@
+nav {
+  height: 15vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 6rem;
+  flex-wrap: wrap;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: #2d2d2d;
+  user-select: none;
+}
+.h2nav {
+  font-size: 2.2rem;
+  transition: all 0.3s ease-in-out;
+}
+
+nav > ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+
+nav a {
+  transition: all 0.3s ease-in-out;
+  color: whitesmoke;
+  font-size: 1.5rem;
+}
+nav ul li a {
+  position: relative; /* Añade esta línea */
+}
+
+nav ul li a::after {
+  content: "";
+  position: absolute;
+  background-color: aqua;
+  left: 50%;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  transition: width 0.3s ease, left 0.3s ease;
+}
+
+nav ul li a.active::after {
+  width: 100%;
+  left: 0;
+}
+
+nav a:hover {
+  color: aqua;
+}
+
+button:hover {
+  cursor: pointer;
+}
+@media (max-width: 770px) {
+  nav {
+    padding: 0 2rem;
+  }
+  .switch__label {
+    width: 50px;
+    height: 25px;
+  }
+}
+
+@media (max-width: 449px) {
+  nav {
+    padding: 0 1rem;
+  }
+  .h2nav {
+    font-size: 2rem;
+  }
+  nav > ul {
+    gap: 2rem;
+  }
+  nav a {
+    font-size: 1.6rem;
+  }
+}
