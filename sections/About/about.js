@@ -1,10 +1,10 @@
-import './about.css';
+import "./about.css";
 
 export function About() {
-  const main = document.querySelector('main');
-  const aboutSection = document.createElement('section');
-  main.id = 'about';
-  aboutSection.className = 'about';
+  const main = document.querySelector("main");
+  const aboutSection = document.createElement("section");
+  main.id = "about";
+  aboutSection.className = "about";
 
   aboutSection.innerHTML = `
     <div class="bento-about">
