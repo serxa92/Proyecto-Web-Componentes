@@ -22,11 +22,11 @@ Este proyecto forma parte del **Máster en Desarrollo Fullstack**
 
 ## 🚀 Funcionalidades
 
-- Navegación fluida por secciones
-- Tarjetas de proyectos con animaciones y efectos hover
-- Imagen de perfil optimizada y animaciones en scroll
-- Diseño totalmente responsive para escritorio, tablets y móviles
-- Footer con enlaces a redes sociales y contacto
+- Navegación fluida por secciones.
+- Tarjetas de proyectos con animaciones.
+- Imagen de perfil optimizada y animaciones en scroll.
+- Diseño totalmente responsive para escritorio, tablets y móviles.
+- Footer con enlaces a redes sociales y contacto.
 
 ---
 
