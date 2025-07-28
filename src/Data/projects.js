@@ -20,7 +20,7 @@ export const projects = [
   {
     title: "ShowRoomBot Website",
     description:
-      " La web de ShowRoomBot, un bot de Discord diseñado para comunidades de programadores y estudiantes que quieren mostrar sus creaciones de manera profesional y organizada.",
+      " The website of ShowRoomBot, a Discord bot designed for communities of developers and students who want to showcase their creations in a professional and organized way.",
     image: "/images/showroom.png",
     tech: ["HTML5", "CSS3", "JavaScript"],
     github: "https://github.com/serxa92/ejercicios_async_js",
