@@ -13,7 +13,7 @@ export const projects = [
     description:
       "The Arkadia Hub is an interactive web portal where users can explore video games, filter by genre or platform, view detailed game profiles, read player ratings, save favorites and much more!",
     image: "/images/arkadia.png",
-    tech: ["HTML5", "CSS3", "Javascript"],
+    tech: ["HTML5", "CSS3", "JavaScript"],
     github: "https://github.com/serxa92/FlexBox_Project",
     link: "https://thearkadiahub.vercel.app/",
   },
