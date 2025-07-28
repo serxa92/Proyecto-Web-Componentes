@@ -1,4 +1,4 @@
-# 💼 CV | Proyecto 4
+# 💼 CV 
 
 Este proyecto es un portfolio personal tipo CV desarrollado como práctica con **Vite** y utilizando un sistema modular basado en componentes.
 Este proyecto forma parte del **Máster en Desarrollo Fullstack**
@@ -35,7 +35,7 @@ Este proyecto forma parte del **Máster en Desarrollo Fullstack**
 
 ## 📄 Licencia
 
-Este proyecto es personal y está publicado con fines educativos y profesionales. Puedes inspirarte o reutilizar partes del código dando crédito si te resulta útil. 🚀
+Este proyecto es personal y está publicado con fines educativos y profesionales. Puedes inspirarte o reutilizar partes del código dando crédito si te resulta útil. 
 
 ---
 

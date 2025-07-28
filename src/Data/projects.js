@@ -9,6 +9,24 @@ export const projects = [
     link: "https://asyncterest.vercel.app/",
   },
   {
+    title: "The Arkadia Hub",
+    description:
+      "The Arkadia Hub is an interactive web portal where users can explore video games, filter by genre or platform, view detailed game profiles, read player ratings, save favorites and much more!",
+    image: "/images/arkadia.png",
+    tech: ["HTML5", "CSS3", "Javascript"],
+    github: "https://github.com/serxa92/FlexBox_Project",
+    link: "https://thearkadiahub.vercel.app/",
+  },
+  {
+    title: "ShowRoomBot Website",
+    description:
+      " La web de ShowRoomBot, un bot de Discord diseñado para comunidades de programadores y estudiantes que quieren mostrar sus creaciones de manera profesional y organizada.",
+    image: "/images/showroom.png",
+    tech: ["HTML5", "CSS3", "JavaScript"],
+    github: "https://github.com/serxa92/ejercicios_async_js",
+    link: "https://showroom-bot-website.vercel.app/",
+  },
+  {
     title: "Nike website",
     description:
       " This is a landing page that I created to look like the Nike website, as part of the landing page project. I hope you like it!",
@@ -17,22 +35,6 @@ export const projects = [
     github: "https://github.com/serxa92/Landing_proyecto1",
     link: "https://proyecto1-nike.vercel.app/",
   },
-  {
-    title: "Air Max History",
-    description:
-      "This is a project I created to showcase the history of the Air Max sneaker line,as part of the Flex project. I hope you like it!",
-    image: "/images/airmax.png",
-    tech: ["HTML5", "CSS3"],
-    github: "https://github.com/serxa92/FlexBox_Project",
-    link: "https://historiadelasairmax.vercel.app/",
-  },
-  {
-    title: "GOT Characters",
-    description:
-      " This is a simple web where you can choose the characters of the series Game of Thrones",
-    image: "/images/got.png",
-    tech: ["HTML5", "CSS3", "JavaScript"],
-    github: "https://github.com/serxa92/ejercicios_async_js",
-    link: "https://gotcharactersapi.vercel.app/",
-  }
+  
+  
 ];
