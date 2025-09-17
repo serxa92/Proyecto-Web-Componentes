@@ -24,9 +24,9 @@ export function About() {
 
       <div class="bento-box interests">
         <ul>
-          <li><a href = "https://www.twitch.tv/serxa92">Watch me gaming here <img src="icons/enlace.png" alt="enlace externo"/></a></li>
-          <li><a href = "https://www.instagram.com/4orty6icks/">Sneakers IG <img src="icons/enlace.png" alt="enlace externo"/></a></li>
-          <li><a href = "https://open.spotify.com/user/serxa92?si=b592a9858f8e42ba">My Spotify profile <img src="icons/enlace.png" alt="enlace externo"/></a></li>
+          <li><a href = "https://www.twitch.tv/serxa92">GAMING <img src="icons/enlace.png" alt="enlace externo"/></a></li>
+          <li><a href = "https://www.instagram.com/4orty6icks/">INSTAGRAM <img src="icons/enlace.png" alt="enlace externo"/></a></li>
+          <li><a href = "https://open.spotify.com/user/serxa92?si=b592a9858f8e42ba">SPOTIFY<img src="icons/enlace.png" alt="enlace externo"/></a></li>
         </ul>
       </div>
       
