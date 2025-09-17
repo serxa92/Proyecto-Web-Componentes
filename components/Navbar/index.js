@@ -19,21 +19,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
 export const Navbar = () => `
 <nav>
-<h1> <a href="#" class="h2nav">Sergio Agulla</a></h1>
+<h1> <a href="#" class="h2nav"> SERGIO.A </a></h1>
 <ul>
     <li>
-        <a href="#" id="homelink" class="active">Home</a>
+        <a href="#" id="homelink" class="active">HOME</a>
     </li>
+    
     <li>
-        <a href="#about" id="homelink">Me</a>
-    </li>
-    <li>
-        <a href="#projects" id="homelink">Projects</a>
+        <a href="#projects" id="homelink">PROJECTS</a>
     </li>
     
     
     <li>
-        <a href="#contact" id="homelink">Contact</a>
+        <a href="#contact" id="homelink">CONTACT</a>
     </li>
     
     
